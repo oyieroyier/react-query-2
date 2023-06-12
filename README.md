@@ -18,3 +18,12 @@ Tutorial link [HERE](https://www.youtube.com/watch?v=r8Dg0KVnfMA)
 
 - `queryFn` must always return a Promise because it's for async functions
 
+## Authors
+
+Project contributed to and maintained by:
+
+- [Bob Oyier](https://github.com/oyieroyier/)
+
+### ISC License (ISC)
+
+[![License: ICL](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)

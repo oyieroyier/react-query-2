@@ -5,7 +5,7 @@ const PostList1 = () => {
 	const postsQuery = useQuery({
 		queryKey: ['posts'],
 		queryFn: getPosts,
-		refetchInterval: 1000,
+		// refetchInterval: 1000,
 	});
 
 	if (postsQuery.isLoading) return <h1>Loading...</h1>;
